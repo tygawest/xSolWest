@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @xSolWest
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on open source ptojects
+- 👋 Hi, I’m @tygawest
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning frontend software development
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me adelekeolugbenga505@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love eating
